@@ -81,7 +81,7 @@ a{
 }
 header{
     height: 100vh;
-    background: url(images/60.jpg) center center/cover no-repeat;
+    background: url(60.jpg) center center/cover no-repeat;
     position: relative;
 }
 
@@ -139,7 +139,7 @@ header *{
     z-index: 10;
 }
 #daytime{
-    background: url(images/daytime_bg.jpeg) center center/cover fixed no-repeat;
+    background: url(daytime_bg.jpeg) center center/cover fixed no-repeat;
     color: #fff;
     text-align: center;
 }
@@ -160,7 +160,7 @@ header *{
 
 
 #gallery{
-    background: url(images/offer-background.jpg) center center/cover no-repeat;
+    background: url(offer-background.jpg) center center/cover no-repeat;
     padding: 8rem 0 6rem;
 }
 
@@ -301,7 +301,7 @@ form input,textarea{
 
 .pharaoh-theme {
     font-family: 'Cairo', sans-serif;
-    background-image: url('images/order\ pic.jpg'); /* حطي هنا رابط الصورة اللي انتي عاوزاها */
+    background-image: url('order\ pic.jpg'); /* حطي هنا رابط الصورة اللي انتي عاوزاها */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
